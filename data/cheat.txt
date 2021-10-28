@@ -1,0 +1,6 @@
+1. generate csv password file
+USERNAME;FNAME;LNAME;DISPLAYNAME;EMAIL;PASSWORD
+
+2. Get skey from POD
+
+3. Create all users from csv
